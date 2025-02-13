@@ -24,7 +24,7 @@ A REST API with Python and Django
 * AWS
 
 ## Django Project Structure
-* app/ - Django Project
+* app/ - Django project
 * app/core/ - Code shared between multiple apps
 * app/user/ - User related code
 * app/recipe/ - Recipte related code
