@@ -1,5 +1,5 @@
 # Recipe-API
-A REST API with Python and Django
+A REST API with Python and Django built in a Test Driven Development
 
 ## Supported Functionality
 * User Authentication
