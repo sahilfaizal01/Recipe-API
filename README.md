@@ -12,4 +12,13 @@ A REST API with Python and Django
 * User Authentication
 * Browseable Admin Interface (Django Admin)
 * Browsable API (Swagger)
-  
+
+## Technologies:
+* Python
+* Django
+* Django REST framework
+* Postgres
+* Docker
+* Swagger
+* Github Actions
+* AWS
